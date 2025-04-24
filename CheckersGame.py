@@ -1,6 +1,3 @@
-# Name: Courtlen Olmo
-# Github Username: Mango-bear
-# Date: 3/16/23
 # Description: Functional Checkers game with error checking. Create a game object, player objects, then play game by
 # calling game.play_game with the player name, starting square tuple, destination square tuple.
 
